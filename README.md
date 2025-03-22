@@ -5,7 +5,8 @@ Authors: Fares Mansour, Ahmed Yasser, Hania Mekky, Hazem Medhat, Alia Nafea
 
 Title: Multi-Omics Integration for Identifying Peripheral Biomarkers Linking Mitochondrial Dysfunction, Neuroinflammation, and Microbiome Diversity to Cognitive Decline in Alzheimer’s Disease.
 
-#Pipeline 
+#Pipeline
+
 1- Data retrieval.  (Done)
 
 2- Data preprocessing (Normalization). (Done)
