@@ -7,16 +7,27 @@ Title: Multi-Omics Integration for Identifying Peripheral Biomarkers Linking Mit
 
 #Pipeline 
 1- Data retrieval.  (Done)
+
 2- Data preprocessing (Normalization). (Done)
+
 3- Data Visualization (PCA, Histogram, Box Plot). (Done)
+
 4- Differential Expression Analysis (On each layer) (Done)
+
 • Proteomics: Limma (Done)
+
 • Metabolomics: Limma (Done)
+
 • Metagenomics: Limma (Done, not sure)
+
 5- Multi-omics Analysis:MOFA+ (Done)
+
 6- Pathway enrichment analysis (Done)
 
 #Not Done
+
 7- Network analysis (Systems biology work): Cytoscape 
+
 8- Machine learning model
+
 10- Automation (Optional)
