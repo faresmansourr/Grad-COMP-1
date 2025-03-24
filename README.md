@@ -9,7 +9,7 @@ Title: Multi-Omics Integration for Identifying Peripheral Biomarkers Linking Mit
 
 1- Data retrieval.  (Done)
 
-2- Data preprocessing (Normalization). (Done)
+2- Data preprocessing (Normalization & Scaling). (Done)
 
 3- Data Visualization (PCA, Histogram, Box Plot). (Done)
 
