@@ -25,6 +25,12 @@ Title: Multi-Omics Integration for Identifying Peripheral Biomarkers Linking Mit
 
 6- Pathway enrichment analysis (Done)
 
+KEGG for Proteomics (Done)
+
+MetaboAnalyst for Metabolomics (Done)
+
+MicrobiomeAnalyst for Metagenomics (Done)
+
 #Not Done
 
 7- Network analysis (Systems biology work): Cytoscape 
