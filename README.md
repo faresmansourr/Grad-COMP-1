@@ -19,7 +19,7 @@ Title: Multi-Omics Integration for Identifying Peripheral Biomarkers Linking Mit
 
 • Metabolomics: Limma (Done)
 
-• Metagenomics: Limma (Done, not sure)
+• Metagenomics: Limma (Done)
 
 5- Multi-omics Analysis:MOFA+ (Done)
 
@@ -29,12 +29,14 @@ KEGG for Proteomics (Done)
 
 MetaboAnalyst for Metabolomics (Done)
 
-MicrobiomeAnalyst for Metagenomics (Done)
+Eggnog mapper then Ko terms and Mapped on KEGG for Metagenomics (Done)
 
-#Not Done
+#In progress
 
 7- Network analysis (Systems biology work): Cytoscape 
 
-8- Machine learning model
+8- Automation 
 
-10- Automation (Optional)
+#Not Done
+
+Machine learning Model (With others)
