@@ -40,3 +40,21 @@ Eggnog mapper then Ko terms and Mapped on KEGG for Metagenomics (Done)
 #Not Done
 
 Machine learning Model (With others)
+
+
+
+
+
+Thesis
+
+1-Intro (Done)
+
+2- L.R (Done)
+
+3- Methods (In progress)
+
+4- Results (Not Done)
+
+5- Discussion (Not Done)
+
+6- Other parts (Not Done)
